@@ -23,6 +23,13 @@ For this project, we expect you to look at these concepts:
 -   [Flowcharts](https://intranet.alxswe.com/concepts/130 "Flowcharts")
 -   [Technical Writing](https://intranet.alxswe.com/concepts/225 "Technical Writing")
 
+Background Context #1
+------------------
+
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
+
+*^ In this picture, [Kris](https://intranet.alxswe.com/rltoken/X_vDffLlUpbtqnubfnQx8Q "Kris")*, and [Jul](https://intranet.alxswe.com/rltoken/X_vDffLlUpbtqnubfnQx8Q "Jul")*
+
 Resources
 ---------
 
