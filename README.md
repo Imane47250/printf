@@ -2,7 +2,7 @@
 ================
 
 -   By Julien Barbier, co-founder & CEO
--   Contributors to this project, Imane Elaceri && Fatima zahra lachkar 
+-   Contributors to this project, Imane Elaceri && Fatimazahralachkar 
 -   ©This project uploaded by : [Enamiimane
 ](https://github.com/Imane47250) , [Lachkar](https://github.com/Fatimazahralachkar)
 -   Porject was studied before working on it through alxafrica [link project](https://intranet.alxswe.com/projects/228#task-970)
@@ -11,7 +11,16 @@
 fatima6lachkar@gmail.com
 elaceriimane@gmail.com
 ``` 
- 
+-   Our Instagram account [𝓢𝓐𝓦𝓢𝓐𝓝](https://www.instagram.com/imane_elaceri/) , [𝓥𝓐𝓝𝓔𝓢𝓢𝓐](https://www.instagram.com/fatimaezzahra_lachkar/)
+
+Background Context 
+------------------
+Animation published by Enamiimane
+
+
+![](https://media.tenor.com/_Eng0LkAtioAAAAC/anime-girl.gif)
+
+*^ “picture”, by [𝓢𝓪𝔀𝓼𝓪𝓷](https://www.instagram.com/imane_elaceri/")* 
 ================
 
 **Concepts**
@@ -172,3 +181,7 @@ alex@ubuntu:~/c/printf$
 -   You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 -   You are not allowed to publish any content of this project.
 -   Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
+**This work is authored by :**
+-   [Imane Elaceri](https://www.instagram.com/imane_elaceri/)
+-   [Fatimazahralachkar](https://www.instagram.com/fatimaezzahra_lachkar/)
